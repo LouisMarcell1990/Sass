@@ -1,0 +1,3 @@
+@function rem ($size: 1rem) {
+  @return calc ($size + 0);
+}
